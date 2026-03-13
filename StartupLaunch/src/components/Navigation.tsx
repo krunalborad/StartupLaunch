@@ -12,7 +12,7 @@ export const Navigation = () => {
   const { user } = useAuth();
 
   const navItems = [
-    { label: "Home", path: "/home", icon: Home },
+    { label: "Home", path: "/", icon: Home },
     { label: "Dashboard", path: "/dashboard", icon: TrendingUp },
     { label: "Discover", path: "/discover", icon: Search },
     { label: "Validate", path: "/validate", icon: Brain },
@@ -37,7 +37,7 @@ export const Navigation = () => {
       <div className="container mx-auto px-6">
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center gap-8">
-            <button onClick={() => handleNavigation("/home")} className="text-xl font-bold bg-gradient-primary bg-clip-text text-transparent">
+            <button onClick={() => handleNavigation("/")} className="text-xl font-bold bg-gradient-primary bg-clip-text text-transparent">
               StartupLaunch
             </button>
             <div className="hidden lg:flex items-center gap-1">
