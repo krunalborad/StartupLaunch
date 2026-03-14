@@ -60,15 +60,14 @@ StartupLaunch encourages users to progress through the startup journey with:
 ## Backend / BaaS
 
 * **Supabase**
-
-* Authentication
-* PostgreSQL Database
-* API layer
-* Session management
+* **Authentication**
+* **PostgreSQL Database**
+* **API layer**
+* **Session management**
 
 ## AI / ML Tools
 
-* **HuggingFace Transformers**
+* **HuggingFace Transformers** - Used for building AI-powered idea generation and startup assistance tools.
 
 ## UI & Component Libraries
 
@@ -151,6 +150,16 @@ This project demonstrates real-world skills in:
 * **Reusable UI component architecture**
 * **Scalable project structure**
 * **Modern frontend tooling**
+
+# 🎯 Target Users
+
+StartupLaunch is designed for:
+
+* **College students with startup ideas**
+* **Aspiring entrepreneurs**
+* **Hackathon teams**
+* **Startup communities**
+* **Indie developers and early founders**
 
 # 🚧 Future Improvements
 
