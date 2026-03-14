@@ -61,10 +61,10 @@ StartupLaunch encourages users to progress through the startup journey with:
 
 * **Supabase**
 
-  * Authentication
-  * PostgreSQL Database
-  * API layer
-  * Session management
+* Authentication
+* PostgreSQL Database
+* API layer
+* Session management
 
 ## AI / ML Tools
 
@@ -176,3 +176,7 @@ Possible future enhancements include:
 * StartupLaunch showcases how powerful startup platforms can be built using **modern web technologies and backend-as-a-service infrastructure**, allowing developers to focus on product innovation rather than complex server management.
 
 * Overall, the project reflects strong skills in **frontend engineering, SaaS product architecture, and AI-assisted startup tooling design**.
+
+🌐 Live Demo: https://startuplaunch-one.vercel.app
+
+📦 GitHub Repository: https://github.com/krunalborad/StartupLaunch
