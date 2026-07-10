@@ -31,7 +31,7 @@ StartupLaunch includes AI-driven tools designed to accelerate the startup creati
 
 * Discover innovative ideas from other students
 * Explore trending startups
-* Learn from real **success stories**
+* Learn from real success stories
 * Find mentors and collaborators
 * Startup activity feed
 
